@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: AutoDynmap
 description: AutoDynmap automatically fullrenders Dynmap when there are no players online and cancelrenders when a player joins.
 show_downloads: true
+logo: /logo.png
